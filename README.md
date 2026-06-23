@@ -1,7 +1,3 @@
-# ResumeAI — AI-Powered Resume & Cover Letter Generator
-
-> A generative AI web application that takes structured user input and produces polished, ATS-optimized resumes and cover letters using Anthropic's Claude API.
-
 **[Live Demo](https://YOUR_USERNAME.github.io/ai-resume-generator)** · **[Report a Bug](https://github.com/YOUR_USERNAME/ai-resume-generator/issues)**
 
 ---
